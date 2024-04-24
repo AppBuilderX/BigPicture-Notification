@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BigPicture Notification</string>
+    <string name="text">CLick on button for showing big picture style notification</string>
+    <string name="notify">Notify</string>
+</resources>
